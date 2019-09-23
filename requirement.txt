@@ -1,0 +1,6 @@
+base36 
+base65536
+base-62
+base91
+base58
+
